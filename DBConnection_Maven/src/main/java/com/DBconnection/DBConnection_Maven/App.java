@@ -6,10 +6,6 @@ import java.sql.Statement;
 
 import com.DBconnection.DBConnection_Maven.factory.MysqlConnectionUtil;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args )
